@@ -5,4 +5,4 @@ Although independently invented, it is essentially identical to a writing system
 
 ![swastix_block_title](documentation/swastix_block_title.png)
 
-⚠️ **WARNING:** This writing system may be illegal to use outside the United States of America.
+⚠️ **WARNING:** This script may be illegal to use outside the United States of America.
