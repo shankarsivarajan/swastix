@@ -8,3 +8,5 @@ Although independently invented, it is essentially identical to a writing system
 ![swastix_block_title](documentation/swastix_block_title.png)
 
 ![swastix_segment_title](documentation/swastix_segment_title.png)
+
+![swastix_tube_weights](documentation/swastix_tube_weights.png)
